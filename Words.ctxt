@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Words
+comment1.params=a
+comment1.target=boolean\ isPalindrome(java.lang.String)
+comment2.params=a
+comment2.target=java.lang.String\ reverse(java.lang.String)
+comment3.params=a
+comment3.target=java.lang.String\ toIndianForm(java.lang.String)
+comment4.params=a
+comment4.target=java.lang.String\ toAmericanForm(java.lang.String)
+comment5.params=a\ b
+comment5.target=boolean\ areAnagrams(java.lang.String,\ java.lang.String)
+comment6.params=a
+comment6.target=java.lang.String\ toPiglatin(java.lang.String)
+comment7.params=a\ n
+comment7.target=java.lang.String\ encode(java.lang.String,\ int)
+comment8.params=a\ n
+comment8.target=java.lang.String\ decode(java.lang.String,\ int)
+numComments=9
